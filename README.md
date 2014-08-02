@@ -6,6 +6,12 @@ Lcdproc adapter
 ### 0.1
 * initial version
 
+## Installation
+
+* We need to install node module. Go to the ccu.io node module folder with your
+favourite tool (ssh, console, etc.) and type "npm install lcdproc-client"
+* The node module should instll in node_module folder of ccu.io installation   
+
 ## Documentation
 
 * this adapter allow connection to lcdproc-server via TCP
